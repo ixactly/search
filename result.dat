@@ -1,0 +1,29 @@
+A*
+cost: 52, search node count: 91
+  .  .  p  p  .  #  .  .  .  .  .  p  p  p  p
+  .  x  p  x  .  #  .  .  .  #  #  #  .  x  p
+  .  x  p  x  #  #  .  .  #  #  #  #  #  x  p
+  .  .  p  .  #  #  #  .  .  #  #  #  #  #  p
+  x  p  p  #  #  #  #  .  .  .  .  .  .  .  p
+  .  p  #  #  #  #  #  .  .  #  #  #  .  #  p
+  .  p  #  #  #  #  #  #  #  #  #  #  .  #  p
+  .  p  #  #  #  #  #  #  #  #  #  #  #  .  p
+  .  p  #  #  #  #  #  .  .  #  #  #  #  #  p
+  .  p  #  #  #  #  #  .  .  #  #  #  #  p  p
+  .  p  #  .  .  .  #  p  p  p  #  p  p  p  .
+  .  p  p  p  p  p  p  p  x  p  p  p  .  .  .
+
+
+cost: 52 reach node count: 101
+  .  .  p  p  .  #  .  .  .  .  .  p  p  p  p
+  .  x  p  x  .  #  .  .  .  #  #  #  .  x  p
+  .  x  p  x  #  #  .  .  #  #  #  #  #  x  p
+  .  .  p  .  #  #  #  .  .  #  #  #  #  #  p
+  x  p  p  #  #  #  #  .  .  .  .  .  .  .  p
+  .  p  #  #  #  #  #  .  .  #  #  #  .  #  p
+  .  p  #  #  #  #  #  #  #  #  #  #  .  #  p
+  .  p  #  #  #  #  #  #  #  #  #  #  #  .  p
+  .  p  #  #  #  #  #  .  .  #  #  #  #  #  p
+  .  p  #  #  #  #  #  .  .  #  #  #  #  p  p
+  .  p  #  .  .  .  #  p  p  p  #  p  p  p  .
+  .  p  p  p  p  p  p  p  x  p  p  p  .  .  .
